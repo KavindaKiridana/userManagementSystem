@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\password\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB660163-3549-49E5-9671-31BC1F046E1A}|password\\password.csproj|c:\\users\\kavin\\onedrive\\desktop\\asp\\password\\password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB660163-3549-49E5-9671-31BC1F046E1A}|password\\password.csproj|solutionrelative:password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\password\\password\\Program.cs",
+              "RelativeDocumentMoniker": "password\\Program.cs",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\password\\password\\Program.cs",
+              "RelativeToolTip": "password\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:31:16.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

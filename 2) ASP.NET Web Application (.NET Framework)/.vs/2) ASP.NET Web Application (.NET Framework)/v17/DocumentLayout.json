@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\2) ASP.NET Web Application (.NET Framework)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12A8202-4D4D-4B4B-9600-5614D7212072}|2) ASP.NET Web Application (.NET Framework)\\2) ASP.NET Web Application (.NET Framework).csproj|C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\2) ASP.NET Web Application (.NET Framework)\\2) asp.net web application (.net framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B12A8202-4D4D-4B4B-9600-5614D7212072}|2) ASP.NET Web Application (.NET Framework)\\2) ASP.NET Web Application (.NET Framework).csproj|solutionrelative:2) asp.net web application (.net framework)\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\2) ASP.NET Web Application (.NET Framework)\\2) ASP.NET Web Application (.NET Framework)\\Web.config",
+              "RelativeDocumentMoniker": "2) ASP.NET Web Application (.NET Framework)\\Web.config",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\2) ASP.NET Web Application (.NET Framework)\\2) ASP.NET Web Application (.NET Framework)\\Web.config",
+              "RelativeToolTip": "2) ASP.NET Web Application (.NET Framework)\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T07:39:21.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\Firebase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF8FB1-6743-469B-9C00-AB57FDF76E6B}|Firebase\\Firebase.csproj|c:\\users\\kavin\\onedrive\\desktop\\asp\\firebase\\firebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF8FB1-6743-469B-9C00-AB57FDF76E6B}|Firebase\\Firebase.csproj|solutionrelative:firebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\Firebase\\Firebase\\Program.cs",
+              "RelativeDocumentMoniker": "Firebase\\Program.cs",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\Firebase\\Firebase\\Program.cs",
+              "RelativeToolTip": "Firebase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:26:37.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

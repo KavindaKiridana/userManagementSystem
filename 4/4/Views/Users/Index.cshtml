@@ -1,0 +1,63 @@
+﻿@model List<User>
+@{
+}
+
+
+
+<h2 class="text-center mb-5">List of Users</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Users" asp-action="Create">New User</a>
+    </div>
+    <div class="col">
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var user in Model)
+        {
+            <tr>
+                <td>@user.ID</td>
+                <td>@user.Name</td>
+                <td>
+                    @if (user.IsDeleted)
+                    {
+                        <p>Deleted</p>
+                    }
+                    else
+                    {
+                        <p>Active</p>
+                    }
+                </td>
+                <td>
+                    @if (user.IsAdmin) 
+                    {
+                        <p>Admin User</p>
+                    }
+                    else
+                    {
+                        <p>Normal User</p>
+                    }
+                </td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Users" asp-action="Edit" asp-route-id="@user.ID">Edit</a>
+                    <form asp-controller="Users" asp-action="Delete" asp-route-id="@user.ID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

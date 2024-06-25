@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|c:\\users\\kavin\\onedrive\\desktop\\asp\\1) asp.net web application (.net framework )\\1) asp.net web application (.net framework )\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|solutionrelative:1) asp.net web application (.net framework )\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) asp.net web application (.net framework )\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|solutionrelative:1) asp.net web application (.net framework )\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) asp.net web application (.net framework )\\models\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A3A827-00D8-4EB5-A4D9-F11CBF0558B1}|1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework ).csproj|solutionrelative:1) asp.net web application (.net framework )\\models\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "1) ASP.NET Web Application (.NET Framework )\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "1) ASP.NET Web Application (.NET Framework )\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T01:43:10.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Models\\Usercontroller.cs",
+              "RelativeDocumentMoniker": "1) ASP.NET Web Application (.NET Framework )\\Models\\Usercontroller.cs",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Models\\Usercontroller.cs",
+              "RelativeToolTip": "1) ASP.NET Web Application (.NET Framework )\\Models\\Usercontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:36:36.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "1) ASP.NET Web Application (.NET Framework )\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\kavin\\OneDrive\\Desktop\\asp\\1) ASP.NET Web Application (.NET Framework )\\1) ASP.NET Web Application (.NET Framework )\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "1) ASP.NET Web Application (.NET Framework )\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:34:26.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
